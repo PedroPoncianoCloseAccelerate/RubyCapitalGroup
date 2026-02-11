@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Submission Form</title>
+
+    <script src="https://webforms.closeiocdn.com/webforms.js" type="module" crossorigin="anonymous" defer></script>
+  </head>
+  <body>
+    <close-form id="form_032Mv6t4asaaUn9I1iveMA"></close-form>
+  </body>
+</html>
